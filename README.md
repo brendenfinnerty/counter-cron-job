@@ -1,2 +1,2 @@
 # counter-cron-job
-simple cron job that incremenets a counter
+simple cron job that increments a counter
